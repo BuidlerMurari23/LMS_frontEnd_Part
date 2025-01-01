@@ -1,12 +1,16 @@
 
+
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>
     LMS Front end 
+   <div className='text-center text-yellow-600 font-mono font-bold'>
+        checking the tailwindcss 
+   </div>
     </>
   )
 }
